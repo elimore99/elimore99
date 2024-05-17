@@ -1,8 +1,7 @@
-- 👋 Hi there, I’m April
+- 👋 Hi there, I’m Eli
 - 👀 I’m interested in Web Development and Data Analysis
 - 🌱 I’m currently learning Front - End development
-- 💞️ I’m looking to collaborate on social projects as a freelancer
-- 📫 email: abrilmoreno99@gmail.com  Phone: 5526737804
+- 📫 email: abrilmoreno99@gmail.com
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I love learning about everything
 
